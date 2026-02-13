@@ -1,0 +1,8 @@
+{
+    "thresholds": {
+        "warning": 67,
+        "failure": 87
+    },
+    "run_mode": "live",
+    "total_session":15
+}
